@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jorgelpiva/crud/issues"
   },
-  "homepage": "https://github.com/jorgelpiva/crud#readme"
+  "homepage": "https://github.com/jorgelpiva/crud#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
